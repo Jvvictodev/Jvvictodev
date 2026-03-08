@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm João Victor.
 
 - 🔭 I am a Systems Development professor at SEDUC
-- 🌱 Studying Java and C#
+- 🌱 Studying .NET and C#
 
 
 ### 🤖 Languages and Technologies
