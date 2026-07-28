@@ -113,13 +113,6 @@ Aberto a oportunidades como **Gameplay Programmer**, **Unity Developer** ou **Un
 
 ---
 
-## Estatísticas
 
-<!--
-  Se os cards abaixo aparecerem quebrados, é a instância pública do github-readme-stats
-  batendo no rate limit da API do GitHub. Solução: hospedar a sua própria no Vercel e
-  trocar "github-readme-stats.vercel.app" pela sua URL nas duas linhas abaixo.
-  O parâmetro &v=1 serve para furar o cache de imagens do GitHub: é só incrementar.
--->
 
 
