@@ -83,15 +83,7 @@ Um jogo de **terror em low poly** que releitura a história de Peter Pan. A Terr
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
-## Repositórios
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**NOME_DO_REPO**](URL) | Descrição curta em uma linha | Unity · C# |
-| [**NOME_DO_REPO**](URL) | Descrição curta em uma linha | JS · HTML |
-| [**NOME_DO_REPO**](URL) | Descrição curta em uma linha | Python |
 
 <!-- Alternativa: cards automáticos (substitua os nomes dos repositórios)
 <a href="https://github.com/Jvvictodev/NOME_DO_REPO">
@@ -124,7 +116,7 @@ O que estou construindo nesse caminho:
 - **Trabalho em equipe** — desenvolvimento colaborativo dentro da By The Sword, com pipeline e divisão de responsabilidades
 - **Comunicação** — documentação, code review e a habilidade de destrinchar problema técnico em linguagem que qualquer time entende
 
-Aberto a oportunidades como **Gameplay Programmer**, **Unity Developer** ou **Unreal Developer**, presencial ou remoto. Se você está montando time, me chama: **SEU_EMAIL**
+Aberto a oportunidades como **Gameplay Programmer**, **Unity Developer** ou **Unreal Developer**, presencial ou remoto. Se você está montando time, me chama: **jvbr141412@gmail.com**
 
 ---
 
@@ -137,6 +129,4 @@ Aberto a oportunidades como **Gameplay Programmer**, **Unity Developer** ou **Un
 
 ---
 
-<p align="center">
-  <sub>“O casco protege, mas também pesa.”</sub>
-</p>
+
