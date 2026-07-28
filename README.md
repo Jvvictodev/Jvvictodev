@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/joao.vvicto?igsh=Y2c0NWRmb3o3bXY3"><img src="https://img.shields.io/badge/Instagram-@bytheswordcorp-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://devvicto.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcATVap5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafXd60jtPLL3YmwIe9336FB2SpxEzdY93fFJYGXYokSj_l2PBno1Eey1pxS5Q_aem_yZ8tJVGvnWmUy4unQmxWhw"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=netlify&logoColor=white" alt="Portfólio"></a>
-  <a href="jvbr141412@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.instagram.com/joao.vvicto"><img src="https://img.shields.io/badge/Instagram-@joao.vvicto-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram pessoal"></a>
+  <a href="https://www.instagram.com/bytheswordcorp"><img src="https://img.shields.io/badge/Estúdio-@bytheswordcorp-8B5CF6?style=flat-square&logo=instagram&logoColor=white" alt="Instagram do estúdio"></a>
+  <a href="https://devvicto.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=netlify&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:jvbr141412@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
@@ -22,7 +23,7 @@ Meu trabalho vive nesse cruzamento: ensinar programação para quem está começ
 - 🎮 Desenvolvendo **Peso do Casco** (Unity) e **Neverland** (Unreal Engine)
 - 🧑‍🏫 Produzindo material didático de lógica, banco de dados e game design
 - 🛠️ Trabalhando com **Unity + C#** e **Unreal Engine + C++**
-- 📫 Contato: **SEU_EMAIL**
+- 📫 Contato: **jvbr141412@gmail.com**
 
 ---
 
@@ -42,7 +43,7 @@ Um metroidvania inspirado na fábula da tartaruga e da lebre. O casco do protago
 
 ### Neverland
 
-Um jogo de **terror em low poly** que releitura a história de Peter Pan. A Terra do Nunca é uma ilha onde ninguém envelhece — e o jogo trata isso pelo que é: crianças que nunca voltaram para casa e um lugar que não deixa ninguém ir embora. A estética low poly não é economia, é escolha: formas simples deixam a imaginação preencher o resto, e o que a gente imagina assusta mais do que o que a gente vê.
+Um jogo de **terror em low poly** que faz uma releitura da história de Peter Pan. A Terra do Nunca é uma ilha onde ninguém envelhece — e o jogo trata isso pelo que é: crianças que nunca voltaram para casa e um lugar que não deixa ninguém ir embora. A estética low poly não é economia, é escolha: formas simples deixam a imaginação preencher o resto, e o que a gente imagina assusta mais do que o que a gente vê.
 
 | | |
 |---|---|
@@ -52,7 +53,7 @@ Um jogo de **terror em low poly** que releitura a história de Peter Pan. A Terr
 | **Status** | Em desenvolvimento |
 | **Estúdio** | By The Sword |
 
-> Acompanhe o desenvolvimento dos dois projetos em [@bytheswordcorp](https://www.instagram.com/bytheswordcorp?igsh=ZjdqajI3OXBjcDV6).
+> Acompanhe o desenvolvimento dos dois projetos em [@bytheswordcorp](https://www.instagram.com/bytheswordcorp).
 
 ---
 
@@ -83,14 +84,6 @@ Um jogo de **terror em low poly** que releitura a história de Peter Pan. A Terr
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-
-<!-- Alternativa: cards automáticos (substitua os nomes dos repositórios)
-<a href="https://github.com/Jvvictodev/NOME_DO_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jvvictodev&repo=NOME_DO_REPO&theme=tokyonight" />
-</a>
--->
-
 ---
 
 ## Ensino
@@ -107,12 +100,12 @@ Boa parte desse material está aberta aqui no perfil. Se for útil pra sua turma
 
 ## Para onde estou indo
 
-Meu objetivo é atuar como **desenvolvedor em um estúdio grande de jogos**, levando a bagagem que venho construindo em duas frentes: código de gameplay em Unity e C#, e a clareza de quem passa o dia explicando sistemas complexos para quem está aprendendo do zero.
+Meu objetivo é atuar como **desenvolvedor em um estúdio grande de jogos**, levando a bagagem que venho construindo em duas frentes: código de gameplay em Unity e Unreal, e a clareza de quem passa o dia explicando sistemas complexos para quem está aprendendo do zero.
 
 O que estou construindo nesse caminho:
 
 - **Portfólio jogável** — projetos completos, publicados e com escopo fechado, não só protótipos
-- **Código de produção** — arquitetura, versionamento e boas práticas em C#, não apenas scripts soltos
+- **Código de produção** — arquitetura, versionamento e boas práticas em C# e C++, não apenas scripts soltos
 - **Trabalho em equipe** — desenvolvimento colaborativo dentro da By The Sword, com pipeline e divisão de responsabilidades
 - **Comunicação** — documentação, code review e a habilidade de destrinchar problema técnico em linguagem que qualquer time entende
 
@@ -122,11 +115,20 @@ Aberto a oportunidades como **Gameplay Programmer**, **Unity Developer** ou **Un
 
 ## Estatísticas
 
+<!--
+  Se os cards abaixo aparecerem quebrados, é a instância pública do github-readme-stats
+  batendo no rate limit da API do GitHub. Solução: hospedar a sua própria no Vercel e
+  trocar "github-readme-stats.vercel.app" pela sua URL nas duas linhas abaixo.
+  O parâmetro &v=1 serve para furar o cache de imagens do GitHub: é só incrementar.
+-->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jvvictodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvvictodev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jvvictodev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvvictodev&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-
+<p align="center">
+  <sub>“O casco protege, mas também pesa.”</sub>
+</p>
