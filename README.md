@@ -122,13 +122,4 @@ Aberto a oportunidades como **Gameplay Programmer**, **Unity Developer** ou **Un
   O parâmetro &v=1 serve para furar o cache de imagens do GitHub: é só incrementar.
 -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jvvictodev&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvvictodev&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens mais usadas" />
-</p>
 
----
-
-<p align="center">
-  <sub>“O casco protege, mas também pesa.”</sub>
-</p>
