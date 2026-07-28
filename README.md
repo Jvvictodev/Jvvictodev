@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/bytheswordcorp?igsh=ZjdqajI3OXBjcDV6"><img src="https://img.shields.io/badge/Instagram-@bytheswordcorp-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/joao.vvicto?igsh=Y2c0NWRmb3o3bXY3"><img src="https://img.shields.io/badge/Instagram-@bytheswordcorp-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://devvicto.netlify.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcATVap5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafXd60jtPLL3YmwIe9336FB2SpxEzdY93fFJYGXYokSj_l2PBno1Eey1pxS5Q_aem_yZ8tJVGvnWmUy4unQmxWhw"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=netlify&logoColor=white" alt="Portfólio"></a>
   <a href="jvbr141412@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
