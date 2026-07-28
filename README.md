@@ -47,8 +47,8 @@ Um jogo de **terror em low poly** que faz uma releitura da história de Peter Pa
 
 | | |
 |---|---|
-| **Engine** | Unreal Engine |
-| **Linguagem** | C++ |
+| **Engine** | Unity Engine |
+| **Linguagem** | C# |
 | **Gênero** | Terror / Exploração em primeira pessoa |
 | **Status** | Em desenvolvimento |
 | **Estúdio** | By The Sword |
